@@ -1,14 +1,3 @@
----
-zettlr id: 20250706073722
-title: YID
-date: 2025-07-06
-tags:
-  - UUID
-  - GUID
-  - Youtube
-  - ID
----
-
 ## Raison d'etre
 
 GUID and UUID are not good ID schemes for the web because they are not designed for human consumption. They are too long and too hard to type, therefore not adequate for a URL. Youtube solved this problem perfectly with their 11-character video IDs, which:
