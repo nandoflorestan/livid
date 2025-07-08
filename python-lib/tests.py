@@ -1,6 +1,6 @@
 import unittest
 import random
-from yid import encode_yid, decode_yid, random_yid_int, random_yid_str
+from livid import encode_yid, decode_yid, random_yid_int, random_yid_str
 
 
 class TestYidStaticVectors(unittest.TestCase):
